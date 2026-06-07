@@ -1,1 +1,53 @@
 # TASK2-CODTECH
+Project Title
+Predictive Analysis Using Machine Learning
+
+Personal Details
+Name: Pranathi Bobburu
+Company: CODTECH IT SOLUTIONS PRIVATE LIMITED
+ID: CTIS9430
+Domain: Data analytics
+Duration: 4 weeks 01 May 2026-29 May 2026
+Mentor: NEELA SANTHOSH KUMAR
+Project Overview
+This project focuses on predictive analysis using machine learning techniques. The goal is to analyze structured data, train a model, and predict outcomes based on input features.
+
+Task Description
+Task 2 involves:
+
+Data cleaning and preprocessing
+Feature selection
+Model building (Logistic Regression / Classification model)
+Model evaluation
+Visualization of results
+Technologies Used
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Google Colab / VS Code
+Dataset Information
+The dataset includes features such as:
+
+Study Hours
+Attendance
+Previous Score
+Pass/Fail Label
+Steps Performed
+Import required libraries
+Load dataset (CSV file)
+Data preprocessing
+Train-test split
+Model training
+Prediction
+Accuracy calculation
+Visualization (graph)
+Model Used
+Logistic Regression (Classification Model)
+Output
+Model predicts whether a student will pass or fail
+Accuracy score is calculated to evaluate performance
+Graph shows relationship between features and target
+Conclusion
+This task helps in understanding how machine learning models can be applied to real-world predictive problems and how data influences decision-making.
